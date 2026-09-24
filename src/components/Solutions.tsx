@@ -5,7 +5,7 @@ import { Reveal } from "./Reveal";
 
 const blue = "#3162DA";
 
-const solutions: { id: string; label: string; title: ReactNode; description: string; items: string[]; img: string; alt: string }[] = [
+const solutions: { id: string; label: string; title: ReactNode; description: string; items: string[]; image: string; caption: string }[] = [
   {
     id: "gestao",
     label: "Gestão Financeira",
