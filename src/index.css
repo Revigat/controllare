@@ -1150,6 +1150,17 @@ ul     { list-style: none; }
   .hero-content {
     padding-top: 5rem;
   }
+
+  .hero-veil {
+    background:
+      linear-gradient(
+        180deg,
+        rgba(12, 26, 31, 0.55) 0%,
+        rgba(12, 26, 31, 0.65) 30%,
+        rgba(12, 26, 31, 0.88) 72%,
+        rgba(12, 26, 31, 0.98) 100%
+      );
+  }
 }
 
 /* ================================================================
